@@ -1,4 +1,14 @@
 /** Insert your code here **/
+ul li {
+	color: red !important;
+}
+.averde {
+	background-color: green;
+}
+
+tr:nth-child(odd) {
+	background-color: yellow;
+}
 
 /*********** READ ONLY BLOCK ******
 You CAN NOT UPDATE anything from here on,

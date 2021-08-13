@@ -1,1 +1,23 @@
 /* add your styles here */
+.paraH1 {
+	font-family: "Courier New", Courier, monospace !important;
+	color: red;
+	text-align: center;
+}
+.paraH2 {
+	text-decoration-line: underline;
+	padding: 5px;
+}
+.paraTodo {
+	background-image: url(https://github.com/4GeeksAcademy/css-tutorial-exercises-course/blob/master/.learn/assets/background-vertical.jpg?raw=true);
+	background-repeat: repeat-y;
+	font-family: "Times New Roman", Times, serif;
+	padding-left: 20px;
+}
+a {
+	color: green;
+	text-decoration: none;
+}
+.fondo {
+	background-color: rgb(0, 0, 0, 0.2);
+}
